@@ -1,8 +1,8 @@
 class MacCalendarSync < Formula
   desc "Command line tool to sync events between macOS calendars"
   homepage "https://github.com/ataias/MacCalendarSync"
-  url "https://github.com/ataias/MacCalendarSync/archive/refs/tags/2026.01.19.1.tar.gz"
-  sha256 "cb14c1bbc6c41112173623aad4bba46bc889c3dd8e02adec6b0917bf79aeead8"
+  url "https://github.com/ataias/MacCalendarSync/archive/refs/tags/2026.10.22.1.tar.gz"
+  sha256 "5e5189e7da31da71a931e964eab0847dd6592f33ff619f4d72114a95d766f797"
   license "MIT"
 
   depends_on :macos
